@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Tetris.cpp
+c:\users\keffeer\desktop\с++\src_sample\consolengine\tetris.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\keffeer\desktop\с++\src_sample\consolengine\tetris.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\keffeer\desktop\с++\src_sample\consolengine\tetris.cpp(149): warning C4715: Tetris::Check: значение возвращается не при всех путях выполнения
+  Пропуск... (изменения не обнаружены)
+  main.cpp
+  ConsolEngine.vcxproj -> C:\Users\Keffeer\Desktop\с++\src_sample\Debug\ConsolEngine.exe
